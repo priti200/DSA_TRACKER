@@ -65,7 +65,7 @@ The repository is organized into several directories, each dedicated to a specif
   <tr style="background-color: #f0f0f0;">
     <td>🗺️ <strong>Graphs</strong></td>
     <td>Representations and Algorithms</td>
-    <td><a href="data_structures/graphs/README.md">Graphs</a></td>
+    <td><a href="https://github.com/priti200/DSA_TRACKER/blob/main/data_structures/graphs/README.md">Graphs</a></td>
   </tr>
 </table>
 
